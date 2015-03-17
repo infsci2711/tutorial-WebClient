@@ -1,4 +1,4 @@
-var restBaseUrl = "http://52.0.4.98/:7654/";
+var restBaseUrl = "http://52.0.4.98:7654/";
 
 function PersonViewModel(firstName, lastName) {
 	var self = this;
